@@ -16,7 +16,7 @@ I'm a **Software Engineer specializing in backend systems and distributed applic
 - **🔭 Currently Building:** Distributed task scheduler & real-time trading engine in Go  
 - **🧠 Deep Diving:** System Design, Distributed Systems, Kubernetes, Database Internals  
 - **🎯 Open to:** Backend Engineering roles in Go/Java, Cloud Infrastructure, Platform Engineering  
-- **📧 Email:** chandandhanush273747@gmail.com  
+- **📧 Email:** likhith.dev01@gmail.com  
 - **📍 Location:** Bangalore, India  
 
 ---
