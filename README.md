@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Likhith
 
-<!--
-**Likhith-dev1/Likhith-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer  
+🚀 Learning Go, System Design & DSA  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Go
+- Java
+- JavaScript
+- MySQL
+- Git & GitHub
+- REST APIs
+- Microservices
+
+---
+
+## 📚 Currently Learning
+
+- Kubernetes
+- Advanced Go
+- System Design
+
+---
+
+## 🚀 Projects
+- CRUD APIs in Go
+- Authentication System
+- GitHub Actions Practice
+- Web Development Projects
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Likhith-dev1
