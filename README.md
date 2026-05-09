@@ -13,7 +13,9 @@ I'm a Software Engineer specializing in backend systems and distributed applicat
 🛠️ Technical Expertise
 Primary Tech Stack
 🚀 Backend Development
-https://camo.githubusercontent.com/cc4b4f462ca57eca0b223c5cd936fc16c55dcbd5ace37027aa313ffc8c79681b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f676f2f676f2d6f726967696e616c2d776f72646d61726b2e737667 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
 Go Java Spring Boot
 
 🗄️ Databases
