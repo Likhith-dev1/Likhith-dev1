@@ -1,6 +1,6 @@
-👋 Hello, World! 🌍 I'm  LIKHITH
-💻 Software Engineer | ⚡ Backend Specialist | Go, Java & Cloud Enthusiast
-Likhith-dev1 Open to Work Location
+                                                    👋 Hello, World! 🌍 I'm  LIKHITH
+                                💻 Software Engineer | ⚡ Backend Specialist | Go, Java & Cloud Enthusiast
+                                                  Likhith-dev1 Open to Work Location
 
 🌟 About Me
 I'm a Software Engineer specializing in backend systems and distributed applications. Currently focused on high-performance Go systems, microservices architecture, and cloud-native development. I build scalable, maintainable, and efficient solutions with a strong emphasis on clean code and system design.
@@ -13,6 +13,7 @@ I'm a Software Engineer specializing in backend systems and distributed applicat
 🛠️ Technical Expertise
 Primary Tech Stack
 🚀 Backend Development
+https://camo.githubusercontent.com/cc4b4f462ca57eca0b223c5cd936fc16c55dcbd5ace37027aa313ffc8c79681b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f676f2f676f2d6f726967696e616c2d776f72646d61726b2e737667 
 Go Java Spring Boot
 
 🗄️ Databases
