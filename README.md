@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, World! 🌍 I'm LIKHITH</h1>
+<marquee><h1 align="center">👋 Hello, World! 🌍 I'm LIKHITH</h1></marquee>
 <h3 align="center">💻 Software Engineer | ⚡ Backend Specialist | Go, Java & Cloud Enthusiast</h3>
 
 <p align="center">
