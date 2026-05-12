@@ -1,5 +1,5 @@
-<marquee><h1 align="center">👋 Hello, World! 🌍 I'm LIKHITH</h1></marquee>
-<h3 align="center">💻 Software Engineer | ⚡ Backend Specialist | Go, Java & Cloud Enthusiast</h3>
+<h1 align="center">👋 Hello, World! 🌍 I'm LIKHITH</h1>
+<h3 align="center">💻 Software Engineer | ⚡ Backend Specialist | Go, Java , RestfullAPI & AWS solution</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Likhith-dev1&label=Profile%20Views&color=0e75b6&style=flat" alt="Likhith-dev1" />
@@ -65,7 +65,7 @@ I'm a **Software Engineer specializing in backend systems and distributed applic
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhith-dev1&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Likhith-dev1&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
