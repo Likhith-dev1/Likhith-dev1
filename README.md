@@ -182,16 +182,22 @@ I'm actively looking to collaborate on:
 <p align="center">
   <a href="https://www.linkedin.com/in/Likhith-CSE/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
+  </a>&emsp;
   <a href="https://twitter.com/likhit00001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
-  </a>
-  <a href="https://github.com/Likhith-dev1" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" height="40" width="40"/>
-  </a>
+  </a>&emsp;
+  <a href="https://github.com/Likhith-dev1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
+         alt="GitHub"
+         height="40"
+         width="40"/>
+  </a>&emsp;
   <a href="mailto:likhith.dev01@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40" width="40"/>
-  </a>
+     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         alt="Gmail"
+         height="40"
+         width="40"/>
+  </a>&emsp;
 </p>
 
 <p align="center">
