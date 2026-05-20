@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, World! 🌍 I'm LIKHITH</h1>
+ <h1 align="center">👋 Hello, World! 🌍 I'm LIKHITH</h1>
 <h3 align="center">💻 Software Engineer | ⚡ Backend Specialist | Go, Java , RestfullAPI & AWS solution</h3>
 
 <p align="center">
@@ -187,7 +187,7 @@ I'm actively looking to collaborate on:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40"/>
   </a>
   <a href="https://github.com/Likhith-dev1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" height="40" width="40"/>
   </a>
   <a href="mailto:likhith.dev01@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40" width="40"/>
